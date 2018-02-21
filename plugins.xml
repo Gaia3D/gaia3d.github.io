@@ -1,5 +1,5 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="https://plugins.qgis.org/static/style/plugins.xsl" ?>
 <plugins>
     <pyqgis_plugin name="OnMap Loader" version="1.3" plugin_id="1">
         <description><![CDATA[Tool for loading OnMap(Korea NGII PDF Map) to QGIS]]></description>
