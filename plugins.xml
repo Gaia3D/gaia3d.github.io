@@ -1,4 +1,5 @@
-<?xml version="1.0"?>
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
 <plugins>
     <pyqgis_plugin name="OnMap Loader" version="1.3" plugin_id="1">
         <description><![CDATA[Tool for loading OnMap(Korea NGII PDF Map) to QGIS]]></description>
@@ -9,9 +10,9 @@
         <qgis_maximum_version>2.99.0</qgis_maximum_version>
         <homepage><![CDATA[https://gaia3d.github.io/OnMapLoader/]]></homepage>
         <file_name>OnMapLoader_1.3.zip</file_name>
-        <icon>/qgis_plugin_repo/icons/OnMapLoader/icon.png</icon>
+        <icon>/icons/OnMapLoader/icon.png</icon>
         <author_name><![CDATA[BJ Jang of Gaia3D]]></author_name>
-        <download_url>https://gaia3d.github.io/qgis_plugin_repo/download/OnMapLoader_1.3.zip</download_url>
+        <download_url>https://gaia3d.github.io/download/OnMapLoader_1.3.zip</download_url>
         <uploaded_by><![CDATA[jangbi882]]></uploaded_by>
         <create_date>2018-02-20T02:56:21.871141</create_date>
         <update_date>2018-02-20T02:56:21.871141</update_date>
